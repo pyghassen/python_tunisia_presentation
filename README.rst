@@ -1,7 +1,15 @@
 sfd_2014_python_tunisia
 =======================
 
-To see the presention you have to use python.
+Installation
+------------
+To see the presention you have to :
+
+- First of all you have to install `pip3`
+
+    $ sudo apt-get install python-pip
+    
+To see the presention you have to :
 
   `$ sudo apt-get install python3-pip`
   
