@@ -8,9 +8,6 @@
 
     .. title:: Python Tunisia
 
-    
-#https://d262ilb51hltx0.cloudfront.net/max/1200/1*YTOR_HRyCoIR-yKB3Sdxaw.jpeg
-
 
 ----
 
