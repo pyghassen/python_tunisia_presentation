@@ -7,6 +7,8 @@ To see the presention you have to :
 
 - First of all you have to install `pip3`
 
+.. highlight:: bash
+
     $ sudo apt-get install python-pip
     
 To see the presention you have to :
