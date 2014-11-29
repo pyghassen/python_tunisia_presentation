@@ -21,5 +21,5 @@ To see the presentation you have to:
 
 - Run hovercarft command to generate the presentation
   
-  `$ hovercraft python_tunisia.txt .`
+  `$ hovercraft python_tunisia.rst .`
   
