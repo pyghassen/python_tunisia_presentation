@@ -1,4 +1,4 @@
-sfd_2014_python_tunisia
+issat_sousse_2014_python_tunisia
 =======================
 
 Installation
