@@ -1,6 +1,6 @@
 :title: Python Programming Launguage
 :author: Ghassen Telmoudi
-:description: Python Tunisia presents python programming language on the SFD 2014.
+:description: Python Tunisia presents python programming language in ISSAT python event.
 :keywords: presentation, restructuredtext, impress.js, tutorial
 :css: tutorial.css
 
@@ -154,13 +154,13 @@ Python Data types
 
 .. code:: python
     
-    _list = ["Python", "Tunisia", "on", "SFD"]
+    _list = ["Python", "Tunisia", "in", "ISSAT"]
     tuple = (1, 2, 3)
 
     _set = {"this", "a", "set"}
     dictionary = {
-        "date", "2014-10-19",
-        "location": "Monastir, Tunisia"
+        "date", "2014-11-29",
+        "location": "Sousse, Tunisia"
     }
     string = "yeah you guessed it, this a string"
     _int = 23
@@ -237,6 +237,11 @@ Python Class
 Python Tunisia
 ==============
 .. image:: images/python_tunisia.png
+.. code:: python
+    
+    facebook = "https://www.facebook.com/PythonTunisia"
+    website = "http://www.pythontunisia.com"
+
 
 ----
 
